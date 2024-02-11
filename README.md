@@ -6,4 +6,6 @@ Design of Company
 https://65c949856679d468a55068fa--shiny-torrone-6f6579.netlify.app/
 
 # Images 
-![alt text](image.png)
+
+Navbar
+![Navbar](image.png)
