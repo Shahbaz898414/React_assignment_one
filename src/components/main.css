@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;700&display=swap');
+
+
+.main-container{
+  background-color: #001413;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  padding: 70px;
+  font-family:  'Poppins', sans-serif;
+}
+
+.hpay-exchange {
+text-align: center;
+  width: 400px;
+  background-color: #061A18;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  border: 3px solid #CFA94E;
+}
+
+
+
+.hpay-exchange h2 {
+  margin-bottom: 20px;
+}
+
+.hpay-exchange ul {
+  list-style-type: none;
+}
+
+.hpay-exchange li {
+ padding: 15px; 
+ border-bottom: 1px solid #555; 
+ background-color: #1C2827;
+ margin: 10px;
+ border-radius: 10px;
+}
+
+/* .icon-credit-card:before { content:'\f09d'; }
+.icon-exchange:before { content:'\f0ec'; }
+.icon-bar-chart:before { content:'\f080'; }
+.icon-check-circle:before { content:'\f058'; } */
+
+/* Add appropriate font-family for icons */
+
+
+.li-contianer {
+  display: flex;
+  justify-content: space-between;
+}
+.f-icon{
+  color: #CFA94E;
+}
+.text-first{
+  color: #CFA94E;
+}
+.arrow-first{
+  color: #CFA94E;
+}
+.dex-container {
+  width: 500px;
+  background-color: #001413;
+  color: white;
+  padding: 50px;
+}
+.dex-text{
+  margin-top: 10px;
+  color: grey;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+
+}
+
+.dex-container h1 {
+  font-size: 36px;
+}
+
+.dex-container p {
+  font-size: 18px;
+}
+
+
+
+.dex-container button {
+ 
+
+  padding: 20px;
+ width: 500px;
+ height: 50px;
+ margin: 20px;
+ text-align: center;
+ border-radius: 5px;
+ border: 1px solid #CFA94E;
+  /* width: 500px; */
+}
+
+.middle-button{
+  display: flex;
+}
+.first-button{
+ background-color: #CFA94E;
+ color: #fff;
+}
+.second{
+  background-color: #061A18;
+  color: white;
+}
+
+
+
+
+/* third part */
+
+/* .third{
+  
+
+
+} */
+
+.form-container {
+  background-color: #091C1B;
+  padding: 20px;
+  border: 3px solid #CFA94E;
+  border-radius: 10px;
+  width: 330px;
+  /* display: flex; */
+  color: white;
+}
+
+
+.input-image{
+  /* margin-right: 20px; */
+  /* display: flex; */
+  background-color: #192625;
+  padding: 5px;
+  border-radius: 6px;
+  margin:  5px 0px;
+}
+
+
+.thyap{
+  background-color: #192625;
+  padding: 5px;
+  border-radius: 6px;
+  margin:  5px 0px;
+}
+.hearder-part small{
+  color: grey;
+}
+
+.Youpay{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(233, 220, 220);
+}
+.quesiont-mask{
+  display: flex;
+  justify-content: space-between;
+}
+.circle{
+  padding: 5px;
+  
+  background-color: #555;
+ border-radius: 50%;
+}
+
+.check{
+ background-color:#555 ;
+margin: 10px;
+}
+.agree{
+margin-top: 9px;
+  color: #929695;
+  font-size: 12px;
+}
+
+.swap-btn{
+  
+border: 1px solid #555;
+border-radius: 8px;
+  background-color: #555;
+  color: #fff;
+  width: 100%;
+ padding: 10px;
+}
+.last-section{
+  display: flex;
+  align-items: flex-start;
+
+}
